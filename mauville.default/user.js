@@ -23,3 +23,7 @@ user_pref("gfx.use_text_smoothing_setting",  "true");
 user_pref("font.name.monospace.x-western","Source Code Pro");
 user_pref("font.name.sans-serif.x-western","Source Sans Pro");
 user_pref("font.name.serif.x-western", "Source Serif Pro");
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", "true");
+user_pref("gfx.font_rendering.cleartype_params.pixel_structure", "1");
+user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_for_families", "");
+user_pref("gfx.font_rendering.cleartype_params.force_gdi_classic_max_size","4");
